@@ -1,0 +1,15 @@
+{
+    "name": "abstracts/project",
+    "description": "Start project with Abstracts Framework that lets you create scalable platforms with no-code",
+    "type": "project",
+    "require": {
+        "abstracts/core": "^0.15.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Patiparnne Vongchompue",
+            "email": "partyparti@gmail.com"
+        }
+    ]
+}
