@@ -193,15 +193,20 @@ $config = array(
 
     "encrypt_ssl_public_key" => "",
 
+    "services_path" => "services",
+    "callback_path" => "services/callback",
+    "media_path" => "media",
+
+    "database_host" => "localhost",
+    "database_name" => "abstracts",
+    "database_login" => "root",
+    "database_password" => "",
+    "database_encoding" => "utf8mb4",
+
 );
 
-/* Database details */
-$database_access = array(
-    "host" => "localhost",
-    "name" => "",
-    "login" => "root",
-    "password" => "",
-    "encoding" => "utf8mb4"
-);
+/* Default Login */
+// Username: abstracts
+// Password: @abStrAct9876543210
 
 ?>
