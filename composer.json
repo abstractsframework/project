@@ -3,7 +3,7 @@
     "description": "Start project with Abstracts Framework that lets you create scalable platforms with no-code",
     "type": "project",
     "require": {
-        "abstracts/core": "^0.17.0"
+        "abstracts/core": "^0.19.0"
     },
     "license": "proprietary",
     "authors": [
