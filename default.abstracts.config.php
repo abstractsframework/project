@@ -154,9 +154,9 @@ $config = array(
     /* Password */
     "password_salt" => "AbstractFramework",
 
-    /* Lock */
-    "lock" => false,
-    "lock_expiration" => "24:00:00",
+    /* Hash */
+    "hash" => false,
+    "hash_expiration" => "24:00:00",
 
     /* User */
     "signup_email_verification" => false,
