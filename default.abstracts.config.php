@@ -78,19 +78,19 @@ $config = array(
     "service_google_private_key" => "",
 
     /* Google Authentication App Configurations */
-    "connect_google_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=google",
+    "connect_google_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=google",
     "connect_google_api_key" => "",
     "connect_google_client_config_path" => "",
     "connect_google_scope" => "", // "profile,email,openid"
 
     /* Microsoft Authentication App Configurations */
-    "connect_microsoft_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=microsoft",
+    "connect_microsoft_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=microsoft",
     "connect_microsoft_id" => "",
     "connect_microsoft_secret" => "",
     "connect_microsoft_scope" => "",
 
     /* Apple Authentication App Configurations */
-    "connect_apple_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=apple",
+    "connect_apple_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=apple",
     "connect_apple_id" => "",
     "connect_apple_secret" => "",
     "connect_apple_kid" => "",
@@ -99,32 +99,32 @@ $config = array(
     "connect_apple_scope" => "", // "name,email"
 
     /* Facebook Authentication App Configurations */
-    "connect_facebook_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=facebook",
+    "connect_facebook_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=facebook",
     "connect_facebook_id" => "",
     "connect_facebook_secret" => "",
     "connect_facebook_scope" => "", // "public_profile,email"
 
     /* Twitter Authentication App Configurations */
-    "connect_twitter_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=twitter",
+    "connect_twitter_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=twitter",
     "connect_twitter_id" => "",
     "connect_twitter_secret" => "",
     "connect_twitter_scope" => "",
 
     /* Snapchat Authentication App Configurations */
-    "connect_snapchat_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=snapchat",
+    "connect_snapchat_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=snapchat",
     "connect_snapchat_id" => "",
     "connect_snapchat_secret" => "",
     "connect_snapchat_scope" => "", // "https://auth.snapchat.com/oauth2/api/user.display_name, https://auth.snapchat.com/oauth2/api/user.bitmoji.avatar,https://auth.snapchat.com/oauth2/api/user.external_id"
     "connect_snapchat_api_key" => "",
 
     /* Spotify Authentication App Configurations */
-    "connect_spotify_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=spotify",
+    "connect_spotify_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=spotify",
     "connect_spotify_id" => "",
     "connect_spotify_secret" => "",
     "connect_spotify_scope" => "", // "user-top-read"
 
     /* Line Authentication App Configurations */
-    "connect_line_redirect_url" => "http://localhost/abstracts/service/core/1.0/connect.php?method=line",
+    "connect_line_redirect_url" => "http://localhost/abstracts/api/?m=connect&f=line",
     "connect_line_id" => "",
     "connect_line_secret" => "",
     "connect_line_scope" => "", // "openid,profile"
