@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a3c762c6b7240b4b0d3aef41b6fa1156",
+    "content-hash": "b8f43ec53992fd2191439a1822de19f2",
     "packages": [
         {
             "name": "abstracts/core",
-            "version": "v1.24",
+            "version": "v1.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/abstractsframework/core.php.git",
-                "reference": "de5d5e33f59ab941cc52ae77a36792fa8c19c619"
+                "reference": "fa7fa4e140ed5f20e0da91fc9f0f52747e1c3d68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/abstractsframework/core.php/zipball/de5d5e33f59ab941cc52ae77a36792fa8c19c619",
-                "reference": "de5d5e33f59ab941cc52ae77a36792fa8c19c619",
+                "url": "https://api.github.com/repos/abstractsframework/core.php/zipball/fa7fa4e140ed5f20e0da91fc9f0f52747e1c3d68",
+                "reference": "fa7fa4e140ed5f20e0da91fc9f0f52747e1c3d68",
                 "shasum": ""
             },
             "require": {
@@ -43,9 +43,9 @@
             "description": "Framework that lets you create scalable platforms with no-code",
             "support": {
                 "issues": "https://github.com/abstractsframework/core.php/issues",
-                "source": "https://github.com/abstractsframework/core.php/tree/v1.24"
+                "source": "https://github.com/abstractsframework/core.php/tree/v1.25"
             },
-            "time": "2023-03-21T08:53:38+00:00"
+            "time": "2023-03-21T09:36:32+00:00"
         },
         {
             "name": "firebase/php-jwt",
